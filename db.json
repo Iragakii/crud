@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "name": "Nokia 15F",
+      "brand": "Nokia",
+      "category": "Phones",
+      "price": "990",
+      "description": "Smartphone",
+      "createdAt": "2024-2-09",
+      "id": "2"
+    },
+    {
+      "id": "309c",
+      "name": "Iphone XS Max",
+      "brand": "Iphone",
+      "category": "Phones",
+      "price": "6666",
+      "description": "s",
+      "createdAt": "2024-07-25"
+    },
+    {
+      "id": "b939",
+      "name": "Xiaomi 999",
+      "brand": "Xiaomi",
+      "category": "Phones",
+      "price": "222",
+      "description": "s",
+      "createdAt": "2024-07-25"
+    }
+  ]
+}
